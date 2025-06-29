@@ -1,0 +1,6 @@
+[submodule "modules/backend"]
+	path = modules/backend
+	url = https://github.com/jordan-cod/seletivo-mamba-backend.git
+[submodule "modules/frontend"]
+	path = modules/frontend
+	url = https://github.com/jordan-cod/seletivo-mamba-frontend.git
