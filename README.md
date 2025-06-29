@@ -6,12 +6,14 @@ Este repositório contém o projeto do teste técnico para processo seletivo da 
  Frontend:
 - Next.js | Typescript
 - Docker + Docker Compose
+- Deploy - Vercel
 
  Backend:
 - Node.js / TypeScript 
 - Jest
 - PostgreSQL + Sequelize
 - Docker + Docker Compose
+- Deploy - AWS
 
 ## Pré-requisitos
 
